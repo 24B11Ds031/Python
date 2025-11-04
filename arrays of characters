@@ -1,0 +1,6 @@
+# Split a string into an array of characters
+
+text = "Hello"
+characters = list(text)
+
+print(characters)
