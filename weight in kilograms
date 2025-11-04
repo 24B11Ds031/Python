@@ -1,0 +1,4 @@
+
+weight_pounds = float(input("Enter your weight in pounds: "))
+weight_kg = weight_pounds * 0.453592
+print("Your weight in kilograms is:", round(weight_kg, 2))
